@@ -2,14 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=timeGradient&section=header&reversal=true&text=hi+there%21&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=1&desc=scroll+down+to+get+to+know+me&descSize=20&descAlign=50&descAlignY=65" alt="banner" />
 </p>
 
-<h1 align="center">Azha Fabian Faizara</h1>
-<p align="center">BINUS University Student | Git & GitHub Workshop Participant</p>
-
 ---
 
 ### About Me
 
-- **Currently**: First-semester student at BINUS University
+- **Occupation**: First-semester student at BINUS University
 - **Currently learning**: Java Programming
 - **Exploring**: Machine Learning, AI, and DevOps
   
